@@ -1,5 +1,7 @@
 # GUIDE: Towards Progressive Visual Query Autocompletion for Graph Databases
 
+[[Technical Report](https://github.com/hahahumble/GUIDE/blob/main/TechnicalReport.pdf)] [[Source Code](https://github.com/hahahumble/GUIDE/tree/main/Code)]
+
 ## Abstract
 The growing prevalence of graph data in domains such as bioinformatics necessitates intuitive query formulation methods. While visual query interfaces mitigate the inherent complexity of graph query languages, constructing queries remains challenging. Current Graph Query Autocompletion (GQAC) systems assist users in iteratively building query graphs through visual interfaces by autocompleting partial queries, thereby reducing cognitive load. However, they suffer critical limitations such as tedious incremental suggestions (1-2 edges per iteration) and reliance on days-long preprocessing that fails for dynamic data. We propose GUIDE, an online visual query autocompletion framework that eliminates preprocessing by operating directly on the underlying database. Unlike existing systems constrained to suggesting small substructures, GUIDE generates suggestions of arbitrary size. This approach significantly reduces iterative interactions and cognitive burden, accelerating complex query formulation. We further introduce novel optimizations to ensure efficient autocompletion. Extensive experiments demonstrate GUIDE’s significant superiority over traditional techniques.
 
