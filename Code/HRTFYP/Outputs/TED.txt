@@ -1,0 +1,655 @@
+BeforeSwap t # 0 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 5 6 0
+e 6 7 3
+e 7 8 3
+BeforeSwap t # 1 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 6 3
+e 0 8 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 6 7 0
+BeforeSwap t # 2 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 1
+v 8 0
+e 0 1 0
+e 0 6 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 6 7 0
+e 7 8 0
+BeforeSwap t # 3 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 8 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 2 7 0
+e 3 4 0
+e 4 5 0
+e 5 6 3
+BeforeSwap t # 4 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 8 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 5 6 3
+e 6 7 3
+BeforeSwap t # 5 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 2 7 0
+e 3 4 0
+e 4 5 0
+e 5 6 0
+e 7 8 0
+BeforeSwap t # 6 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 3 8 0
+e 4 5 0
+e 4 7 0
+e 5 6 0
+BeforeSwap t # 7 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 1
+e 0 1 0
+e 0 7 0
+e 0 8 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 5 6 0
+BeforeSwap t # 8 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 1
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 4 8 0
+e 5 6 0
+e 6 7 0
+BeforeSwap t # 9 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 4 8 0
+e 5 6 3
+e 6 7 3
+9 is swapped out!(Swapping Phase) benefit_score: 581, loss_score_min: 184
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 4 8 0
+e 5 6 3
+e 6 7 3
+4 is swapped out!(Swapping Phase) benefit_score: 113, loss_score_min: 45
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 8 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 5 6 3
+e 6 7 3
+3 is swapped out!(Swapping Phase) benefit_score: 313, loss_score_min: 61
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 8 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 2 7 0
+e 3 4 0
+e 4 5 0
+e 5 6 3
+1 is swapped out!(Swapping Phase) benefit_score: 257, loss_score_min: 102
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 6 3
+e 0 8 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 6 7 0
+6 is swapped out!(Swapping Phase) benefit_score: 1769, loss_score_min: 140
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 3 8 0
+e 4 5 0
+e 4 7 0
+e 5 6 0
+8 is swapped out!(Swapping Phase) benefit_score: 377, loss_score_min: 91
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 1
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 4 8 0
+e 5 6 0
+e 6 7 0
+3 is swapped out!(Swapping Phase) benefit_score: 473, loss_score_min: 145
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 4 8 0
+e 5 6 0
+e 6 7 0
+1 is swapped out!(Swapping Phase) benefit_score: 91, loss_score_min: 44
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 7 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 5 6 0
+e 7 8 3
+1 is swapped out!(Swapping Phase) benefit_score: 298, loss_score_min: 93
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 2 7 0
+e 2 8 0
+e 3 4 0
+e 4 5 0
+e 5 6 0
+4 is swapped out!(Swapping Phase) benefit_score: 241, loss_score_min: 100
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 6 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 6 7 0
+e 6 8 3
+0 is swapped out!(Swapping Phase) benefit_score: 664, loss_score_min: 203
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 5 6 0
+e 6 7 3
+e 7 8 3
+1 is swapped out!(Swapping Phase) benefit_score: 506, loss_score_min: 185
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 6 0
+e 0 7 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 7 8 0
+7 is swapped out!(Swapping Phase) benefit_score: 497, loss_score_min: 233
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 1
+e 0 1 0
+e 0 7 0
+e 0 8 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 5 6 0
+7 is swapped out!(Swapping Phase) benefit_score: 557, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 641, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 827, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 519, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 477, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 656, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 627, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 502, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 562, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 563, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 523, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 554, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 591, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 736, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 598, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 500, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 593, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 575, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 597, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 539, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 571, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 571, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 674, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 504, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 572, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 572, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 557, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 593, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 593, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 593, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 593, loss_score_min: 233
+7 is swapped out!(Swapping Phase) benefit_score: 580, loss_score_min: 233
+Final t # 0 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 6 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 6 7 0
+e 7 8 0
+Final t # 1 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 4 6 0
+e 6 7 0
+e 7 8 0
+Final t # 2 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 1
+v 8 0
+e 0 1 0
+e 0 6 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 6 7 0
+e 7 8 0
+Final t # 3 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 6 3
+e 0 7 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 7 8 3
+Final t # 4 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 1
+v 7 0
+v 8 0
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 1 7 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 4 6 0
+e 7 8 0
+Final t # 5 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 6 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 6 7 3
+e 7 8 3
+Final t # 6 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 1
+e 0 1 0
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 4 8 0
+e 5 6 0
+e 6 7 0
+Final t # 7 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 0
+e 0 1 0
+e 0 6 3
+e 0 8 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 3 4 0
+e 4 5 0
+e 6 7 0
+Final t # 8 * 0
+v 0 0
+v 1 0
+v 2 0
+v 3 0
+v 4 0
+v 5 0
+v 6 0
+v 7 0
+v 8 1
+e 0 1 0
+e 0 6 0
+e 0 6 3
+e 0 7 0
+e 0 7 3
+e 0 8 0
+e 0 8 3
+e 1 2 0
+e 1 6 0
+e 2 3 0
+e 2 7 0
+e 2 8 0
+e 3 4 0
+e 3 8 0
+e 4 5 0
+e 4 7 0
+e 4 8 0
+e 5 6 0
+e 5 6 3
+e 6 7 0
+e 6 7 3
+e 6 8 3
+e 7 8 0
+e 7 8 3
